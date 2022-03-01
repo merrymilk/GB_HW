@@ -45,4 +45,4 @@ def int_func (*args):
     return
 int_func()
 
-Lesson 3
+Lesson 3 Ilya Pautov
